@@ -1,1 +1,4 @@
-$Hello! Please Read Me!$
+# py-lecture-repo
+
+## About
+
